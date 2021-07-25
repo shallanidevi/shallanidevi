@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shallani Devi</h1>
+<h1 align="center">Hi 👋 I'm Shallani Devi</h1>
 <h3 align="center">A passionate developer and open-source enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
