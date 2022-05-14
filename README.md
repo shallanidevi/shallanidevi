@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shallani Devi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shallanidevi" alt="shallanidevi" /></a> </p>
-
 - 🔭 I’m currently working on **API MARKETPLACE PROJECT**
 
 - 🌱 I’m currently learning **Google Cloud**
@@ -26,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shallanidevi&show_icons=true&locale=en" alt="shallanidevi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shallanidevi&" alt="shallanidevi" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shallanidevi" alt="shallanidevi" /></a> </p>
