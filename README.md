@@ -20,9 +20,7 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
   
 </p>
 
-<p align="center">
- <h2 align="center">Contribution Graph</h2>
-<p>
+
 <img alt="Shallani" src="https://activity-graph.herokuapp.com/graph?username=shallanidevi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
