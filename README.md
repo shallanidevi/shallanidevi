@@ -25,4 +25,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shallanidevi&" alt="shallanidevi" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shallanidevi" alt="shallanidevi" /></a> </p>
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+<p>
+<img alt="aash gates" src="https://activity-graph.herokuapp.com/graph?username=aash-gates&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
