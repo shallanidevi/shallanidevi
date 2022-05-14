@@ -14,16 +14,10 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
   <img src="https://github-readme-stats.vercel.app/api?username=shallanidevi&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallanidevi&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
-  <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shallanidevi&color=fc5a8d" />
-  
-  
-</p>
-
-
 <img alt="Shallani" src="https://activity-graph.herokuapp.com/graph?username=shallanidevi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<br>
 </p>
-
+ <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shallanidevi&color=fc5a8d" />
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
