@@ -26,7 +26,7 @@ I am a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cu
 <code><img width="40px" src="https://img.icons8.com/color/48/google-cloud.png" title="Google Cloud"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/linux.png" title="Linux"/></code
+<code><img width="40px" src="https://img.icons8.com/color/48/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
