@@ -36,13 +36,6 @@ I am a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cu
 
 
 
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
-
-
-
-
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
 <code><a href="https://www.linkedin.com/in/shallanidevi/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.twitter.com/ShallaniD"><img width="43px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
