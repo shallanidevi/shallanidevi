@@ -34,3 +34,4 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
 <code><a href="shallani2020@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
