@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👨‍💻 All of my projects are available at [shallanidevi.github.io](shallanidevi.github.io)
+- 👨‍💻 All of my projects are available at (shallanidevi.github.io)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
 
 - 💬 Ask me about **Web Development**
 
@@ -23,7 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shallanidevi&" alt="shallanidevi" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shallanidevi" alt="shallanidevi" /></a> </p>
