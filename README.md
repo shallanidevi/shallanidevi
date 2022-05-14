@@ -1,6 +1,5 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Shallani! </h1>
 I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am currently pursuing my Bachelor of Engineering degree in Computer Science and Engineering from Canara Engineering College, Karnataka.
-<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **API MARKETPLACE PROJECT**
 
