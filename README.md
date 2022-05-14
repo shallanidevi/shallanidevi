@@ -24,6 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shallanidevi&" alt="shallanidevi" /></p>
 
+<p align="center"> <a href="https://twitter.com/shallaniD" target="blank"><img src="https://img.shields.io/twitter/follow/aash_gates?logo=twitter&style=for-the-badge" alt="aash_gates" /></a> </p>
 
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
