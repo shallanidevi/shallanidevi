@@ -9,6 +9,37 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
 
 - 💬 Ask me about **Web Development**
 
+<br>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+
+  <br>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
+  
+  
+</p>
+
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
@@ -32,4 +63,3 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
 <code><a href="shallani2020@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
