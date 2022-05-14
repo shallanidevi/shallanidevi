@@ -11,11 +11,11 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
 
 <br>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=shallanidevi&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallanidevi&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shallanidevi&color=fc5a8d" />
   
   
 </p>
