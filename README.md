@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👨‍💻 All of my projects are available at [shallanidevi.github.io](Link)
+- 👨‍💻 All of my projects are available at [shallanidevi.github.io]
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=shallanidevi&label=Profile%20views&color=0e75b6&style=flat" alt="shallanidevi" /> </p>
 
 - 💬 Ask me about **Web Development**
