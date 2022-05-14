@@ -1,5 +1,3 @@
-
-/*## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shallani!*/
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Shallani! </h1>
 <h3 align="center">A passionate developer from India</h3>
 
