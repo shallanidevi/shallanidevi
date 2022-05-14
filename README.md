@@ -20,6 +20,11 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
   
 </p>
 
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+<p>
+<img alt="Shallani" src="https://activity-graph.herokuapp.com/graph?username=shallanidevi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
@@ -41,14 +46,6 @@ I am a Tech and Coding enthusiast and Developer based in Jammu, India. I am curr
 
 
 
-
-
-
-<p align="center">
- <h2 align="center">Contribution Graph</h2>
-<p>
-<img alt="Shallani" src="https://activity-graph.herokuapp.com/graph?username=shallanidevi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
 <code><a href="https://www.linkedin.com/in/shallanidevi/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
