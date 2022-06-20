@@ -20,6 +20,8 @@ I'm a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cur
 <img alt="Shallani" src="https://activity-graph.herokuapp.com/graph?username=shallanidevi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 Languages, Frameworks and Tools I code with:
+<br>
+<br>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
