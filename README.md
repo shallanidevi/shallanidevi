@@ -21,7 +21,6 @@ I'm a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cur
 
 <h1>Languages, Frameworks and Tools I code with:</h1>
 <br>
-<br>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
@@ -38,7 +37,7 @@ I'm a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cur
 
 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"><h1>Lets Connect!</h1>
 <code><a href="https://www.linkedin.com/in/shallanidevi/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.twitter.com/ShallaniD"><img width="43px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
 <code><a href="https://www.instagram.com/shallanidevi"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
