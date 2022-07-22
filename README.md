@@ -5,7 +5,7 @@ I'm a Tech and Coding enthusiast and a Developer based in Jammu, India. I am cur
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👨‍💻 You can also check out my portfolio at [https://shallanidevi.github.io/](https://shallanidevi.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
 
 - 💬 Ask me about **Web Development**
 
