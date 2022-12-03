@@ -3,7 +3,7 @@ I'm an avgeek and a seasoned  developer passionate about doodling, imagination, 
 
 - 🔭 I’m currently practising **DSA**
 
-- 🌱 I’m currently developing **cool stuff**
+- 🌱 I’m currently developing some **cool stuff**
 
 - 👨‍💻 You can also check out my portfolio at [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
 
