@@ -1,10 +1,6 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Shallani!</h1>
 I'm an avgeek and a seasoned  developer passionate about doodling, imagination, and creativity with a strong desire to solve problems by innovating through technology.
 
-- 🔭 I’m currently practising **DSA**
-
-- 🌱 I’m currently developing some **cool stuff**
-
 - 👨‍💻 You can also check out my portfolio at [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
 
 - 💬 Ask me about **Web Development**
