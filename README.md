@@ -2,9 +2,6 @@
 I'm a seasoned  developer passionate about doodling, imagination, and creativity with a strong desire to solve problems by innovating through technology.
 
 - 👨‍💻 You can check out my portfolio at [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
-
-- 💬 Ask me about **Web Development**
-
 <br>
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=shallanidevi&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
