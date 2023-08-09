@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Shallani!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Shallani!</h1>
 I'm a seasoned  developer passionate about doodling, imagination, and creativity with a strong desire to solve problems by innovating through technology.
 
 - 👨‍💻 You can check out my portfolio at [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
