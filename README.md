@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hi, I'm Shallani!</h1>
 I'm a seasoned developer passionate about imagination, and creativity with a strong desire to solve problems by innovating through technology.
 
--My portfolio👨‍💻
+<h2>My portfolio👨‍💻</h2>
 [https://shallanidevi.github.io/](https://reliable-lolly-bd9685.netlify.app/index.html)
 <br>
 <h1>Lets Connect!<img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"></h1>
