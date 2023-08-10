@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hi, I'm Shallani!</h1>
-🚀 Welcome to my creative corner! 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Welcome to my creative corner!🚀</h1>
+
 👋 Hello! I'm Shallani, a dedicated web developer on a mission to turn imaginative concepts into captivating digital realities with a profound love for problem-solving and a strong command of C++, HTML, CSS, JavaScript, MERN, and Django. 
 🎓 Armed with a Bachelor's degree in Computer Science Engineering, I bring a fresh perspective to every project I undertake. 
 💼 My portfolio showcases my expertise through projects that emphasize elegant design and seamless functionality. 
