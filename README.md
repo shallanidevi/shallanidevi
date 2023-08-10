@@ -1,5 +1,5 @@
-<h1>Welcome to my creative corner!🚀</h1>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px">Ciao, I'm Shallani</h1> 
+<h1>Welcome to my creative corner!🚀</h1>
 <h2>My portfolio👩‍💻</h2>
 https://reliable-lolly-bd9685.netlify.app
 <h2>Lets Connect!<img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"></h2>
