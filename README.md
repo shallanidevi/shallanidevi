@@ -1,11 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Welcome to my creative corner!🚀</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hello! I'm Shallan, Welcome to my creative corner!🚀</h1>
 
-<h2>👋 Hello! I'm Shallani, a dedicated web developer on a mission to turn imaginative concepts into captivating digital realities with a profound love for problem-solving and a strong command of C++, HTML, CSS, JavaScript, MERN, and Django.</h2>
-<h2>🎓 Armed with a Bachelor's degree in Computer Science Engineering, I bring a fresh perspective to every project I undertake.</h2>
-<h2>💼 My portfolio showcases my expertise through projects that emphasize elegant design and seamless functionality.</h2> 
-🌟 What I lack in years of professional experience, I make up for with a passion that fuels my work. I believe in building digital solutions that not only solve problems but also inspire and engage users.
-🌈 If you're seeking a dedicated partner to transform your digital vision into reality, I'm here to collaborate and bring your ideas to life. Let's create something extraordinary together.
-📬 Reach out to me, and let's explore the exciting possibilities of web development tailored to your needs. Your project deserves a fresh perspective and an enthusiastic approach.
+<h2>👋 Hello! I'm Shallani, a dedicated web developer on a mission to turn imaginative concepts into captivating digital realities with a 
 <h2>My portfolio👩‍💻</h2>
 https://reliable-lolly-bd9685.netlify.app
 <h2>Lets Connect!<img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"></h2>
