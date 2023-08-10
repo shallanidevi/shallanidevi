@@ -1,5 +1,6 @@
 <h2>Welcome to my creative corner!🚀</h2>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px">Ciao, I'm Shallani</h1> 
+<p>A dedicated web developer on a mission to turn imaginative concepts into captivating digital realities with a profound love for problem-solving and a strong command of C++, HTML, CSS, JavaScript, MERN, and Django. </p>
 <h2>My portfolio👩‍💻</h2>
 https://reliable-lolly-bd9685.netlify.app
 <h2>Lets Connect!<img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"></h2>
